@@ -2,7 +2,7 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-kdeng23/branch/main/graph/badge.svg?token=gSm3dPExfI)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-kdeng23)
 
-Storybook is here:
+Storybook is here: 
 
 - Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/storybook>
 - QA: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/storybook>
